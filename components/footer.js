@@ -1,7 +1,8 @@
+import '../css/footer.module.css';
 const Footer = () => {
     return (
-        <div>
-            <p>Abuse: abuse@kevvynode.org<br />Sales: sales@kevvynode.org</p>
+        <div id="footer">
+            <p id="footer-emails">Abuse: abuse@kevvynode.org<br />Sales: sales@kevvynode.org</p>
         </div>
     );
 }

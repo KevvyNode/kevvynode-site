@@ -1,0 +1,5 @@
+#footer {
+    display: flex;
+    background-color: red;
+    align-content: flex-end;
+}

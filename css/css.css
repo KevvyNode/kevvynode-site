@@ -3,15 +3,25 @@ KevvyNode
 Version: 1.0
 */
 
+#footer {
+    margin-top: 100%;
+    background-color: #bc3333;
+}
+
 #banner {
     background-color:#bc3333;
+    display: flex;
+    height: 20px;
+    width: auto;
+    flex-flow: row wrap;
+    gap: 88%;
 }
 body {
     color: white;
     background-color: #28282B;
 }
 
-#link {
+.link {
     text-decoration: none;
     color: white;
     font-weight: bold;
