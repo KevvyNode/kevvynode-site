@@ -1,7 +1,19 @@
 {
-  "name": "KevvyNode",
+  "name": "kevvynode-site",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "ItsCryptic",
-  "license": "MIT"
+  "repository": "https://github.com/ItsCryptic/kevvynode-site",
+  "author": "Kevin D <kevin.diangelis@gmail.com>",
+  "license": "GNU GPL v2",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^13.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }

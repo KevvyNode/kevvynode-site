@@ -11,6 +11,12 @@ body {
     background-color: #28282B;
 }
 
+#link {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
 footer {
     color: white;
 }
