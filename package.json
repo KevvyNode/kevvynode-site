@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": "https://github.com/ItsCryptic/kevvynode-site",
   "author": "Kevin D <kevin.diangelis@gmail.com>",
-  "license": "GPL-2.0-only",
+  "license": "GNU GPL v2",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
