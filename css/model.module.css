@@ -1,0 +1,13 @@
+#header {
+    font-size: 20px;
+    font-weight: bold;
+    height: 20px;
+    width: auto;
+}
+
+#body {
+    color: white;
+    background-color:#28282B;
+    height: 120px;
+    width: auto;
+}
