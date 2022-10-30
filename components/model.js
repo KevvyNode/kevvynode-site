@@ -9,7 +9,7 @@ const Model = () => {
             <div>
                 <p id="body">Hello! A newer build of the site is available. Please refresh the page. <br />Build ID: <span></span></p>
             </div>
-            <button onclick="">Close</button> 
+            <button onclick="Close();">Close</button> 
         </div>
         <Script src="../js/model.module.js"></Script>
         </>
