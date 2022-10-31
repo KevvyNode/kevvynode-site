@@ -35,7 +35,7 @@ Version: 1.0
     height: 20px;
     width: auto;
     flex-flow: row wrap;
-    gap: 84%;
+    gap: 83%;
 }
 body {
     color: white;
@@ -50,4 +50,15 @@ body {
 
 footer {
     color: white;
+}
+
+#heading {
+    text-align: left;
+    position: relative;
+}
+#server {
+    text-align: right;
+    font-size: 100px;
+    margin-top: -7%;
+    position: relative;
 }
