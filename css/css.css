@@ -62,3 +62,8 @@ footer {
     margin-top: -7%;
     position: relative;
 }
+#heading-div {
+    height: 350px;
+    width: auto;
+    background-image: url("../public/images/server.jpg");
+}
