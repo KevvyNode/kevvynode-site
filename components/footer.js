@@ -7,7 +7,7 @@ const Footer = () => {
             <p id="footer-emails">Abuse: abuse@kevvynode.org<br />Sales: sales@kevvynode.org</p>
             <p>Current build: <span id="current-commit"></span></p>
             # https://docs.github.com/en/rest/commits/commits#get-a-commit
-            <Script src="../js/footer.js"></Script>
+            <Script src="../js/footer.module.js"></Script>
         </div>
     );
 }
