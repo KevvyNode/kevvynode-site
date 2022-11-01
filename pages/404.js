@@ -6,9 +6,7 @@ function Page404() {
         <>
         <div>
             <Header></Header>
-            <span>
-                
-            </span>
+            <span id="exist">This page doesn't exist</span>
             <Footer></Footer>
         </div>
         </>
