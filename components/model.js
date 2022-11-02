@@ -1,4 +1,4 @@
-import '../css/model.module.css';
+import '../public/css/model.module.css';
 import Script from 'next/script';
 
 const Model = () => {

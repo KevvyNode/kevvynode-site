@@ -1,7 +1,7 @@
 import Header from '../components/header'
 import Footer from '../components/footer'
 import Head from 'next/head';
-import '../css/services.module.css';
+import '../public/css/services.module.css';
 
 
 
