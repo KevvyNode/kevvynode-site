@@ -16,7 +16,7 @@
     "@headlessui/react": "^1.7.12",
     "@heroicons/react": "^2.0.16",
     "autoprefixer": "^10.4.13",
-    "cssnano": "^5.1.14",
+    "cssnano": "^5.1.15",
     "next": "^13.2.3",
     "octokit": "^2.0.14",
     "postcss": "^8.4.21",
