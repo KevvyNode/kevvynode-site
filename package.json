@@ -13,7 +13,7 @@
     "export": "next export"
   },
   "dependencies": {
-    "@headlessui/react": "^1.7.12",
+    "@headlessui/react": "^1.7.13",
     "@heroicons/react": "^2.0.16",
     "autoprefixer": "^10.4.13",
     "cssnano": "^5.1.14",
