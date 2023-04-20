@@ -19,7 +19,7 @@
     "cssnano": "^6.0.0",
     "next": "^13.2.4",
     "octokit": "^2.0.14",
-    "postcss": "^8.4.21",
+    "postcss": "^8.4.23",
     "postcss-import": "^15.1.0",
     "process": "^0.11.10",
     "react": "^18.2.0",
